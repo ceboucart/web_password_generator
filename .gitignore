@@ -1,0 +1,22 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore environment files
+.env
+
+# Ignore any .swp files (Vim temporary files)
+*.swp
+
+# Ignore specific file types
+*.tmp
+*.bak
